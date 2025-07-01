@@ -12,6 +12,7 @@ This project analyzes Swiggy Chennai restaurant data using Python and Power BI.
 ## 📂 Files
 - Chennai Dining Trends - A Swiggy Data Analysis.ipynb: Python notebook for EDA and visualization
 - Chennai Dining Trends - A Swiggy Data Analysis.pbix`: Power BI dashboard (linked below)
+- Chennai Dinning Trends - A Swiggy Data Analysis.pdf : Power BI dashboard pdf 
 - swiggy_cleaned_df.csv: Dataset
 
 ## 🔗 Power BI Dashboard
